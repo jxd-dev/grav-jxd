@@ -18,7 +18,7 @@ social:
   byline:
     # (values) bold | italic | uppercase | normal-case | small
     class: 'normal-case'
-    text: Dreimal im Jahr Nachrichten und Berichte aus den Netzwerken per <span class="nowrap">E-Mail</span>.
+    text: Nachrichten und Berichte aus den Netzwerken per <span class="nowrap">E-Mail</span>.
   button:
     # (values) bold | italic | uppercase | normal-case | small | normal
     class: 'normal icon fa-envelope-o'
